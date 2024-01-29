@@ -1,0 +1,17 @@
+table, td {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+td {
+    padding: 15px;
+}
+
+.color_blue {
+    background-color: blue;
+}
+
+.color_yellow {
+    background-color: yellow;
+}
